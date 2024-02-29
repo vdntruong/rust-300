@@ -18,6 +18,7 @@
 - `cargo run` is more frequenly used than `cargo build`, to build and run ours project
 - `cargo check` quickly checks the code
 - `cargo build --release` to compile project with optimizations, `target/release`
+- `cargo update` to update a crate
 
 `cargo fmt` to invoke `rustfmt` and format the code automatically
 
