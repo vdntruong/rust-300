@@ -1,4 +1,6 @@
 use rand::{thread_rng, Rng};
+// Rng is a trait,
+// this trait must be in scope for us to use methods
 use std::cmp::Ordering;
 use std::io::stdin;
 
